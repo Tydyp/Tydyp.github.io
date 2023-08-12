@@ -23,3 +23,7 @@ For the Databases portion of the ePortfolio I plan to enhance the Salvare Search
 1.	Enhance the dashboard of the database.
 2.	Establish more functionality of the database.
 
+- [Self-Assessment & Index](https://tydyp.github.io/index.html)
+- [Software Engineering and Design](https://tydyp.github.io/EnhancementOne.html)
+- [Algorithms and Data Structures](https://tydyp.github.io/EnhancementTwo.html)
+- [Databases](https://tydyp.github.io/EnhancementThree.html)
