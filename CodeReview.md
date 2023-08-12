@@ -1,4 +1,4 @@
-# <u>Code Review</u>
+# <u>Refinement Plan and Code Review</u>
 The code review will be a chance for me to show the different types of programs I was able to complete throughout my time at SNHU and be able to design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
 
 ## Software Design/Engineering
