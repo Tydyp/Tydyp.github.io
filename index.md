@@ -8,4 +8,4 @@
 &nbsp;[Algorithms and Data Structure](#algorithms "Algorithms and Data Structure")<br/>
 &nbsp;[Databases](#databases "Databases")<br/>
 
-<img id="self-assessment" src="tydyp.github.io/self assessment.jpg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
+<img id="self-assessment" src="tydyp.github.io/self_assessment.jpg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
