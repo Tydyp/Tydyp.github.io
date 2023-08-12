@@ -1,4 +1,4 @@
-# Tyler Pease CS-499 ePortfolio
+#
 ## <u>Table of Contents</u>
 
 &nbsp;[Professional Self-Assessment](#Professional_self-assessment "Professional Self-Assessment")<br/>
