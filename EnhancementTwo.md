@@ -7,4 +7,4 @@ This artifact is from CS 360, Mobile Architecture and Programming, and it is a w
 
 [Algorithms and Data Structures Repository](https://Tydyp/Algorithms_DataStructures)
 
-[Index](https://tydyp.github.io/index.html)
+[Self-Assesment & Index](https://tydyp.github.io/index.html)
