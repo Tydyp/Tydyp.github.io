@@ -7,6 +7,6 @@ This artifact is from CS 360, Mobile Architecture and Programming, and it is a w
 
 ### Table of Contents
 
-[Algorithms and Data Structures Repository](https://Tydyp/Algorithms_DataStructures)
+[Algorithms and Data Structures Repository](https://github.com/Tydyp/Algorithms_DataStructures)
 
 [Self-Assesment & Index](https://tydyp.github.io/index.html)
